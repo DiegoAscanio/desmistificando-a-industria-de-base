@@ -1,6 +1,21 @@
 body {
+    text-align: justify;
     font-family: sans-serif;
     background-color: #dbdccf;
     margin-left: 10%;
     margin-right: 10%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-item {
+    flex: 1fr;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img[alt="foto"] {
+    height: 200px;
 }
