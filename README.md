@@ -28,7 +28,7 @@ Engenheira de Produção formada pela Universidade Federal de Minas Gerais, trab
 ## Local e Data
 
 Prédio 20, Sala 405 (4º andar) — CEFET-MG Campus II — Av. Amazonas, 7675, Nova Gameleira, Belo Horizonte, MG.
-Dia 5 de Abril de 2024 das 19:30 às 22:00.
+Dia 5 de Abril de 2024 das 19:30 às 22:00 (Sexta-Feira).
 
 ## Inscrições
 
