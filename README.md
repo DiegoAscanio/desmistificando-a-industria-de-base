@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/DiegoAscanio/desmistificando-a-industria-de-base/main/style.css"></link>
+<link rel="stylesheet" type="text/css" href="style.css"></link>
 
 # Desmistificando a Indústria de Base
 
